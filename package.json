@@ -2,7 +2,7 @@
   "name": "validation-decorator-example",
   "dependencies": {
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "reflect-metadata": "^0.1.13"
